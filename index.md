@@ -5,11 +5,11 @@ title: 关于我
 
 ## 个人资料
 - 姓名: 刘文涛
-- 邮箱: treri.liu@gmail.com
+- 邮箱: wyntau@outlook.com
 - 年龄: From 1990
 - QQ: 83692901
 - 手机号码:18501335721
-- GitHub: <http://github.com/Treri>
+- GitHub: <http://github.com/Wyntau>
 - 博客: <http://iSay.me>
 - 毕业学校: 中国海洋大学(2009 - 2013)
 - 专业: 通信工程
